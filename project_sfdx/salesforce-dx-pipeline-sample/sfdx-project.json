@@ -1,0 +1,25 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "id": "00D1r0000030IUiEAM",
+            "versionNumber": "1.0.0.NEXT",
+            "versionName": "version name"
+        },
+        {
+            "path": "force-app/",
+            "package": "MiPaquete",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "42.0",
+    "packageAliases": {
+        "MyPackageDemo": "0Ho1r000000PAzdCAG",
+        "MiPaquete": "0Ho1r000000PAznCAG"
+    }
+}
